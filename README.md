@@ -1,6 +1,7 @@
 # Progressive JSON
 
 A progressive JSON parsing system that allows streaming and placeholder-based JSON reconstruction.
+Inspired from [Progressive JSON blog](https://overreacted.io/progressive-json/)
 
 ## Overview
 
